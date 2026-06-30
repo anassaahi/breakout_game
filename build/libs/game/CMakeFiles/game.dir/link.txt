@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgame.a CMakeFiles/game.dir/src/Collision.cpp.o CMakeFiles/game.dir/src/Game.cpp.o CMakeFiles/game.dir/src/GameLevel.cpp.o
+/usr/bin/ranlib libgame.a

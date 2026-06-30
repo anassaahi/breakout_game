@@ -1,0 +1,15 @@
+/home/nachovarga/Internship/glad/OpenGL_Project/build/CMakeFiles/edit_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/CMakeFiles/rebuild_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/CMakeFiles/edit_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/CMakeFiles/rebuild_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/graphics/CMakeFiles/graphics.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/graphics/CMakeFiles/edit_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/graphics/CMakeFiles/rebuild_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/game/CMakeFiles/game.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/game/CMakeFiles/edit_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/game/CMakeFiles/rebuild_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/apps/CMakeFiles/edit_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/apps/CMakeFiles/rebuild_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/apps/sandbox/CMakeFiles/sandbox.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/apps/sandbox/CMakeFiles/edit_cache.dir
+/home/nachovarga/Internship/glad/OpenGL_Project/build/apps/sandbox/CMakeFiles/rebuild_cache.dir

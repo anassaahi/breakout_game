@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/sandbox.dir/link.d CMakeFiles/sandbox.dir/main.cpp.o -o ../../sandbox  ../../libs/game/libgame.a ../../libs/graphics/libgraphics.a -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

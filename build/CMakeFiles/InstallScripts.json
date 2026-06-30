@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nachovarga/Internship/glad/OpenGL_Project/build/cmake_install.cmake",
+		"/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/cmake_install.cmake",
+		"/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/graphics/cmake_install.cmake",
+		"/home/nachovarga/Internship/glad/OpenGL_Project/build/libs/game/cmake_install.cmake",
+		"/home/nachovarga/Internship/glad/OpenGL_Project/build/apps/cmake_install.cmake",
+		"/home/nachovarga/Internship/glad/OpenGL_Project/build/apps/sandbox/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

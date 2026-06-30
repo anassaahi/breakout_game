@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgraphics.a CMakeFiles/graphics.dir/src/ParticleGenerator.cpp.o CMakeFiles/graphics.dir/src/ResourceManager.cpp.o CMakeFiles/graphics.dir/src/SpriteRenderer.cpp.o CMakeFiles/graphics.dir/__/external_libs/glad/src/glad.c.o
+/usr/bin/ranlib libgraphics.a
